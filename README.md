@@ -9,3 +9,4 @@ I started out as a graphics designer back when dial up modems were a thing, and 
 Lately I have been migrating all my leftover SVN repositories to GIT (hurray!), and discovered this profile readme in the process. Neat :D
 
 - 📫 How to reach me: s.mordziol@mistralys.eu
+- Visit the company website: https://mistralys.eu
