@@ -20,5 +20,5 @@ As well as a few gaming-related things:
 
 > NOTE: "Mistralys" is the name of my web development company. I have closed it some time ago to join the [IONOS](https://ionos.com) group.
 
-📫 How to reach me: s.mordziol@mistralys.eu  
+📫 How to reach me: eve@aeonoftime.com  
 🏡 My website: https://aeonoftime.com
